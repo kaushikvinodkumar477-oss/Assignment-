@@ -1,5 +1,5 @@
 # Assignment-1 
- Overview
+ Overview 
 This project focuses on implementing and analyzing fundamental algorithmic paradigms used in real-world problem solving. The assignment covers three major approaches:
 Divide and Conquer
 Greedy Algorithms
